@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "Memoir",
   "version": "1.0.0",
   "main": "index.js",
@@ -18,3 +19,9 @@
     "concurrently": "^9.1.0"
   }
 }
+=======
+  "dependencies": {
+    "mongodb": "^6.12.0"
+  }
+}
+>>>>>>> cc616353c9acfc9165c4206d7df091ec415322cb
